@@ -22,7 +22,7 @@ export default function Routes() {
     const router = createBrowserRouter([
         {
             path: "/",
-            element: <Home />,
+            element: <Form />,
         },
         {
             path: "/form",

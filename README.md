@@ -1,5 +1,11 @@
 # Aplication React + Redux
+🔰Fill in the fields and click "Insert values" in the Form and view the value in Home, the values ​​were shared via redux
 
+*form*
+![alt text](image.png)
+
+*home*
+![alt text](image-1.png)
 # Getting started
 
 ## Recommended IDE Configuration
